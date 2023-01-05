@@ -91,13 +91,13 @@ h2{
     padding: 10px;
     display: block;
     font-size: 20px;
-    color: #afff;
+    color: rgb(7, 7, 14);
     border: none;
     border-radius: 5px;
-    background-image: linear-gradient(to right, #aa076b, #61045f);
+    background-image: linear-gradient(to right, #fa1882, #fff2f4);
 }
 .button-container button:hover{
-    background-image: linear-gradient(to right, #61045f, #aa076b);
+    background-image: linear-gradient(to right, #f5eced, #fd048df5);
 }
 @media(max-width:600px){
     .container{
